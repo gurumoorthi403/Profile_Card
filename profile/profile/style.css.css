@@ -1,0 +1,52 @@
+h1{
+    text-align: center;
+}
+.profile{
+    margin-left: 25%;
+    border: solid;
+}
+#name{
+    text-align: center;
+    font-family: sans-serif;
+    text-shadow: 1px 1px 3px gray;
+}
+#class{
+    text-align: center;
+    color: gray;
+}
+#contect{
+    text-align: center;
+    color: rgb(244, 13, 51);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.logo{
+    margin-left: 25%;   
+}
+a{
+    padding: 35px;
+}
+.navbar{
+    margin-left: 25%;
+}
+.bar{
+    width: 200px;
+    height: 35px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    box-shadow: 3px 3px 5px black;
+    background-color: blue;
+   
+}
+.bar a{
+    text-decoration: none;
+}
+#text{
+    color: aliceblue;
+}
+
+
+
+
+
+
